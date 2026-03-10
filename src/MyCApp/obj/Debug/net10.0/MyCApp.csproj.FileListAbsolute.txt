@@ -1,0 +1,14 @@
+C:\Users\YLBL0000\OneDrive - orange.com\Bureau\MYCAPP\src\MyCApp\bin\Debug\net10.0\MyCApp.exe
+C:\Users\YLBL0000\OneDrive - orange.com\Bureau\MYCAPP\src\MyCApp\bin\Debug\net10.0\MyCApp.deps.json
+C:\Users\YLBL0000\OneDrive - orange.com\Bureau\MYCAPP\src\MyCApp\bin\Debug\net10.0\MyCApp.runtimeconfig.json
+C:\Users\YLBL0000\OneDrive - orange.com\Bureau\MYCAPP\src\MyCApp\bin\Debug\net10.0\MyCApp.dll
+C:\Users\YLBL0000\OneDrive - orange.com\Bureau\MYCAPP\src\MyCApp\bin\Debug\net10.0\MyCApp.pdb
+C:\Users\YLBL0000\OneDrive - orange.com\Bureau\MYCAPP\src\MyCApp\obj\Debug\net10.0\MyCApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YLBL0000\OneDrive - orange.com\Bureau\MYCAPP\src\MyCApp\obj\Debug\net10.0\MyCApp.AssemblyInfoInputs.cache
+C:\Users\YLBL0000\OneDrive - orange.com\Bureau\MYCAPP\src\MyCApp\obj\Debug\net10.0\MyCApp.AssemblyInfo.cs
+C:\Users\YLBL0000\OneDrive - orange.com\Bureau\MYCAPP\src\MyCApp\obj\Debug\net10.0\MyCApp.csproj.CoreCompileInputs.cache
+C:\Users\YLBL0000\OneDrive - orange.com\Bureau\MYCAPP\src\MyCApp\obj\Debug\net10.0\MyCApp.dll
+C:\Users\YLBL0000\OneDrive - orange.com\Bureau\MYCAPP\src\MyCApp\obj\Debug\net10.0\refint\MyCApp.dll
+C:\Users\YLBL0000\OneDrive - orange.com\Bureau\MYCAPP\src\MyCApp\obj\Debug\net10.0\MyCApp.pdb
+C:\Users\YLBL0000\OneDrive - orange.com\Bureau\MYCAPP\src\MyCApp\obj\Debug\net10.0\MyCApp.genruntimeconfig.cache
+C:\Users\YLBL0000\OneDrive - orange.com\Bureau\MYCAPP\src\MyCApp\obj\Debug\net10.0\ref\MyCApp.dll

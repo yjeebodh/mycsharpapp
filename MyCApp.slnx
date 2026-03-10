@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/MyCApp/MyCApp.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/MyCApp.Tests/MyCApp.Tests.csproj" />
+  </Folder>
+</Solution>
